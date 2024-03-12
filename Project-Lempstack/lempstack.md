@@ -1,5 +1,5 @@
 
-![lampstack pic](assets/LAMP-stack.jpg)
+![lampstack pic](assets/Lemp2.jpg)
 # Elevating Excellence: Deploying a High-Performance LEMP Stack Web Server on AWS Cloud
 
 ## Introduction:
